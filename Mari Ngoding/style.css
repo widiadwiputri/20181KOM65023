@@ -28,6 +28,9 @@ header a{
 	color:white;
 }
 
+header a:hover{
+	font-weight: bold;
+}
 .container{
 	display: grid;
 	grid-template-columns:200fr 100fr 300fr;
